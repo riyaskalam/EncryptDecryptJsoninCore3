@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptDecryptJsoninCore3", "EncryptDecryptJsoninCore3\EncryptDecryptJsoninCore3.csproj", "{89B876F6-52F5-4837-A10D-B08D8BA06C53}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChustaSoft.Tools.SecureConfig", "ChustaSoft.Tools.SecureConfig\ChustaSoft.Tools.SecureConfig.csproj", "{5D24A478-0EEC-40A6-AD02-48BF35998001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B876F6-52F5-4837-A10D-B08D8BA06C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B876F6-52F5-4837-A10D-B08D8BA06C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B876F6-52F5-4837-A10D-B08D8BA06C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B876F6-52F5-4837-A10D-B08D8BA06C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D24A478-0EEC-40A6-AD02-48BF35998001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D24A478-0EEC-40A6-AD02-48BF35998001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D24A478-0EEC-40A6-AD02-48BF35998001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D24A478-0EEC-40A6-AD02-48BF35998001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {352EAA59-2177-412C-830C-03011601335F}
+	EndGlobalSection
+EndGlobal
