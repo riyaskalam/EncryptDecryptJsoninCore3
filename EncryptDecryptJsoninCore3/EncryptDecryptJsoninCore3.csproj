@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ChustaSoft.Tools.SecureConfig\ChustaSoft.Tools.SecureConfig.csproj" />
+    <ProjectReference Include="..\IntegrationHub.SecureConfig\IntegrationHub.SecureConfig.csproj" />
   </ItemGroup>
 
 </Project>

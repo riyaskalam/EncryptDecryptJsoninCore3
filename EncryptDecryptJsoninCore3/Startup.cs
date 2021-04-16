@@ -1,4 +1,4 @@
-using ChustaSoft.Tools.SecureConfig;
+using IntegrationHub.SecureConfig;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
