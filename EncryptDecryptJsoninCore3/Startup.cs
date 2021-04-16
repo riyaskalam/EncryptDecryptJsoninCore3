@@ -52,3 +52,4 @@ namespace EncryptDecryptJsoninCore3
         }
     }
 }
+//reference: https://github.com/ChustaSoft/CommonNET
