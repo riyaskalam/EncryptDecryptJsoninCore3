@@ -14,7 +14,7 @@ namespace EncryptDecryptJsoninCore3
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().EncryptSettings<ProductionSettings>(true).Run();
+            CreateHostBuilder(args).Build().EncryptSettings<ProductionSettings>(false).Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

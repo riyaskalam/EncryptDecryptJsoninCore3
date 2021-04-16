@@ -16,7 +16,7 @@ namespace ChustaSoft.Tools.SecureConfig
 
         #region Constants
 
-        private const string SETTINGS_FILE_PATTERN = "appsettings*.json";
+        private const string SETTINGS_FILE_PATTERN = "appsettings.Development.json";
 
         #endregion
 
